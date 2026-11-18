@@ -1,0 +1,5 @@
+interface:
+  display_name: "靛蓝投影讲义"
+  short_description: "为不同主题的演示文稿统一靛蓝配色、字体层级、图文间距与投影效果"
+  brand_color: "#234685"
+  default_prompt: "请用 $indigo-ppt-design 排版这份演示文稿，让图文层级、比较关系和阅读顺序清楚。"
